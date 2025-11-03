@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Askeladd101
-
-🌱 I'm currently learning **web development**  
-💡 I’m interested in a lot of things — maybe too many 😅  
+👋 Hi, I'm Askeladd101
+🌱 I'm currently learning way too many things, hard to even keep up
+👀 I’m interested in a lot of things. By lot I mean a loooooooooooooooooooot lots of things which is a bad thing
 🤝 I’m looking to collaborate on something fun and useful  
 ---
 ### 🧠 About Me
